@@ -1,4 +1,3 @@
-Hangzhou
-Shanghai
 Dezhou
 Nanjing
+Beijing
